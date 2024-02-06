@@ -1,0 +1,5 @@
+C:/Users/hloi/CLionProjects/CSC109/SP24/CH07VECTOROBJ/cmake-build-debug/CMakeFiles/unittest.dir
+C:/Users/hloi/CLionProjects/CSC109/SP24/CH07VECTOROBJ/cmake-build-debug/CMakeFiles/CH07VECTOROBJ.dir
+C:/Users/hloi/CLionProjects/CSC109/SP24/CH07VECTOROBJ/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/hloi/CLionProjects/CSC109/SP24/CH07VECTOROBJ/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hloi/CLionProjects/CSC109/SP24/CH07VECTOROBJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
